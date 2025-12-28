@@ -7,6 +7,13 @@ h3{
   font-size:xx-large;
 }
 
+h6{
+    color: orange;
+    opacity: 50%;
+    font-size: x-large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
 #Welcome{
     color: chartreuse;
 }
@@ -18,3 +25,4 @@ h3{
 *{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
+
