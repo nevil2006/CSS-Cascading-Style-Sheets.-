@@ -2,6 +2,19 @@ h1 {
   color: red;
   text-align: center;
 }
+
 h3{
-  
+  font-size:xx-large;
+}
+
+#Welcome{
+    color: chartreuse;
+}
+
+.text{
+    color: blue;
+}
+
+*{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
