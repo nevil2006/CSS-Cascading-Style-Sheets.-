@@ -1,5 +1,6 @@
 h1 {
-  border-style: solid;
+  border-style: dashed double dashed double;
   border-width: 3px 20px 6px 10px;
-  border-color: red blue green black;
+  border-color: red blue green rgb(251, 219, 219);
+  border-radius: 5px;
 }
